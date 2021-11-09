@@ -1,6 +1,6 @@
 #### 私有方法
 ```java
-@Test
+    @Test
     public void partitionTest() {
 
         Method parition = PowerMockito.method(CommonPartitioner.class, "partition");
